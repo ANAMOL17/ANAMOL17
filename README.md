@@ -1,5 +1,7 @@
-## Hi there 👋
-###### Hi there 👋
+## Hi,  I'm ANAMOL HAQUE 👋
+######
+👑 I am Web Developer
+🖊️ Love to write code
 
 **ANAMOL17/ANAMOL17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
